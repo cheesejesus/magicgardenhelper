@@ -27,8 +27,8 @@
 // @connect      i.imgur.com
 // @connect      cdn.discordapp.com
 
-// @downloadURL  https://github.com/cheesejesus/LucasMod.js
-// @updateURL    https://github.com/cheesejesus/LucasMod.js
+// @downloadURL  https://raw.githubusercontent.com/cheesejesus/magicgardenhelper/refs/heads/main/LucasMod.js
+// @updateURL    https://raw.githubusercontent.com/cheesejesus/magicgardenhelper/refs/heads/main/LucasMod.js
 // ==/UserScript==
 (() => {
   var __defProp = Object.defineProperty;
